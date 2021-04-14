@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jackwxn.javaapigenerate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jackwxn.javaapigenerate.MyBundle
 
 class MyApplicationService {
 
